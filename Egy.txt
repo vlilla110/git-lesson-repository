@@ -1,0 +1,4 @@
+Atiranyitas feladat: Irj szoveges tartalmat egy file-ba. Megtortent. 
+C
+D
+B
